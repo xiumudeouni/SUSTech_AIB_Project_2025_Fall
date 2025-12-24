@@ -1,0 +1,5 @@
+lr=3e-4,
+eps_clip=0.5,
+update_timestep=100,
+k_epochs=15,
+gamma=0.99
